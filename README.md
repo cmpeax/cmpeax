@@ -1,4 +1,4 @@
-### 打工人模式
+### 懈怠模式
 
 <!--
 **cmpeax/cmpeax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
